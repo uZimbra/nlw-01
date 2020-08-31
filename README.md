@@ -45,7 +45,7 @@ The back-end will run into [http://localhost:3333](http://localhost:3333) as def
 To run the web app you just need to type:
 
 ```bash
-example:~/server$ npm run start
+example:~/web$ npm run start
 ```
 
 After this, React will pop up a browser window running in React default port, something like this [http://localhost:3000](http://localhost:3000/).
@@ -55,7 +55,7 @@ After this, React will pop up a browser window running in React default port, so
 Same as the web app, you just need to type:
 
 ```bash
-example:~/server$ npm run start
+example:~/mobile$ npm run start
 ```
 
 and a browser window will pop up on [http://localhost:19002](http://localhost:19002/) as expo default port.
