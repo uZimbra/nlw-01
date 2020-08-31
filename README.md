@@ -2,7 +2,7 @@
 
 — A application make with the will to create and share information about recycle and waste menagement
 
-![images/ecoleta.jpg](images/ecoleta.jpg)
+![https://github.com/uZimbra/nlw-01/blob/master/images/thumb.jpg](https://github.com/uZimbra/nlw-01/blob/master/images/thumb.jpg)
 
 ## How to Reproduce
 
