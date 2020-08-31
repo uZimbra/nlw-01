@@ -18,7 +18,7 @@ example:~/server$ npm install
 
 ### Back-end
 
-We gonna setup the back-end by initializing database.
+We gonna set up the back-end by initializing the database.
 
 To do it you need to type this into your command line:
 
@@ -64,7 +64,7 @@ To run the mobile app you just need to scan the QR code with your smartphone (yo
 
 ---
 
-# Used Technologys
+# Used Technologies
 
 - **Back-end**
     1. **Express** - Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
