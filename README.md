@@ -1,6 +1,6 @@
 # Ecoleta
 
-— A application make with the will to create and share information about recycle and waste menagement
+— A application make with the will to create and share information about recycle and waste menagement.
 
 ![https://github.com/uZimbra/nlw-01/blob/master/images/thumb.jpg](https://github.com/uZimbra/nlw-01/blob/master/images/thumb.jpg)
 
